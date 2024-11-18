@@ -1,0 +1,33 @@
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    
+}
+
+strong {
+    color: blueviolet;
+    font-family: "Dancing Script", cursive;
+}
+ 
+h2{
+    color: mediumvioletred;
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+   
+}
+
+
+
+body {
+    background-color: antiquewhite;
+}
